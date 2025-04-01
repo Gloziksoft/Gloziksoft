@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Peter Glózik
 
-🎯 I'm an aspiring web developer passionate about backend, frontend, and DevOps.  
+🎯 I am a web developer for backend, frontend, and DevOps.  
 I have experience working with ASP.NET (mainly MVC), MSSQL databases, and responsive websites using HTML/CSS/JS. I'm currently focused on learning Java and Linux.
 
 🌱 I'm attending a Java requalification course, focusing on OOP, the Spring Framework, working with databases, REST APIs, and backend development.
