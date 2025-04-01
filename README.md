@@ -68,4 +68,4 @@ I have experience working with ASP.NET (mainly MVC), MSSQL databases, and respon
 
 ---
 
-> 💡 This GitHub profile serves as my personal project portfolio. I'm open to new opportunities in the field of web application development.
+📘 This GitHub profile showcases my ongoing learning journey and practical experience in web application development.
