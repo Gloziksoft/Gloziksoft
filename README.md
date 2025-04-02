@@ -22,6 +22,16 @@ I regularly use both **Windows** and **Linux** as development environments.
 
 ---
 
+## 🛠 Tools I Use
+
+- **Visual Studio Code** – editing, web development  
+- **Visual Studio Community** – .NET and ASP.NET development  
+- **IntelliJ IDEA** – Java development  
+- **MySQL** – managing databases and writing queries  
+- **Microsoft SQL Server (SSMS)** – working with relational databases
+
+---
+
 ## 🚀 Technologies & Skills
 
 ### ✅ I have basic knowledge of:
