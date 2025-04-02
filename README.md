@@ -1,15 +1,22 @@
 # Gloziksoft
 
-👨‍💻 **Author:** Peter Glozik
+👨‍💻 **Author:** Peter Glózik
 
 ## 📖 Description
-This is a personal website project created with **Umbraco CMS**. It serves as a portfolio and sandbox for testing modern web technologies and CMS capabilities.
+This is a personal website project created with **Umbraco CMS**.  
+It serves as a portfolio and a sandbox for testing modern web technologies and CMS capabilities.
+
+🔗 Visit my live portfolio: [os.gloziksoft.sk](https://os.gloziksoft.sk)
 
 ## 🚀 Technologies Used
 - Umbraco CMS
 - ASP.NET
+- ASP.NET Core
 - C#
-- HTML / CSS / JavaScript
+- Java *(currently learning – retraining course)*
+- JavaScript
+- SQL
+- HTML / CSS / Bootstrap
 
 ## 📁 Project Structure
 \`\`\`
