@@ -1,12 +1,13 @@
 # Gloziksoft
 
 👨‍💻 **Author:** Peter Glózik  
-🎯 Junior Developer | 💡 Self-taught | 🎓 Java Retraining Participant  
+🎯 Junior Developer | 💡 Self-taught | 🎓 Currently in Java retraining
 
 ---
 
 ## 📖 Description
-This is my personal portfolio website created with **Umbraco CMS**.  
+
+This is my personal portfolio website built with **Umbraco CMS**.  
 It serves as a presentation of my work, a sandbox for learning, and a growing collection of projects as I build my career in software development.
 
 🔗 **Live portfolio site**: [os.gloziksoft.sk](https://os.gloziksoft.sk)
@@ -15,26 +16,27 @@ It serves as a presentation of my work, a sandbox for learning, and a growing co
 
 ## 👨‍💻 About Me
 
-I’m a motivated **junior developer** currently going through a **Java retraining course**, with a growing interest in web development and backend technologies.  
-My journey into IT started with self-learning and online tutorials, and now I’m expanding my skills through real-world projects and continuous practice.
+I am a **beginner developer**, currently attending a **Java retraining course**.  
+I started with self-study, simple projects and continue to improve through practice and learning by doing.  
+I regularly use both **Windows** and **Linux** as development environments.
 
 ---
 
 ## 🚀 Technologies & Skills
 
-### ✅ Fundamentals I’m confident in:
-- **HTML / CSS / Bootstrap** – page structure, styling, responsive design
-- **C#** – basic syntax, OOP, .NET Framework
-- **SQL** – database basics, writing queries, using SSMS
-- **ASP.NET MVC** – routing, views, controllers
-- **Git & GitHub** – version control, commits, branching
+### ✅ I have basic knowledge of:
+- **HTML / CSS / Bootstrap** – page structure, styling, responsiveness  
+- **C# / .NET Framework** – basic syntax, OOP, building small applications  
+- **ASP.NET MVC** – views, controllers, routing  
+- **SQL** – writing queries, working with databases  
+- **Git & GitHub** – version control, basic workflow
 
-### 📚 Currently learning / improving:
-- **Java** – via official retraining program
-- **JavaScript** – functions, events, DOM
-- **ASP.NET Core** – modern web application structure
-- **Umbraco CMS** – templates, content models, CMS integration
-- **Entity Framework / LINQ**
+### 📚 Currently learning:
+- **Java** – retraining course in progress  
+- **ASP.NET Core** – building modern web apps  
+- **JavaScript** – DOM, events, interactivity  
+- **Umbraco CMS** – templating, content structure  
+- **Entity Framework / LINQ** – data access in .NET
 
 ---
 
@@ -49,11 +51,11 @@ My journey into IT started with self-learning and online tutorials, and now I’
 
 ## 🔗 Related Projects
 
-Here are some of my other repositories you might want to check out:
+Some of my other repositories:
 
-- 🌐 [ASP.NET 4.8 MVC Business Site](https://github.com/Gloziksoft/Asp.Net-4.8-MVC-Business-site)
-- 🛒 [Eshop Gloziksoft](https://github.com/Gloziksoft/EshopGloziksoft)
-- ✅ [ASP.NET Core 7 MVC Task Manager](https://github.com/Gloziksoft/Asp.Net-Core-7-MVC-Task_Manager)
+- 🌐 [ASP.NET 4.8 MVC Business Site](https://github.com/Gloziksoft/Asp.Net-4.8-MVC-Business-site)  
+- 🛒 [Eshop Gloziksoft](https://github.com/Gloziksoft/EshopGloziksoft)  
+- ✅ [ASP.NET Core 7 MVC Task Manager](https://github.com/Gloziksoft/Asp.Net-Core-7-MVC-Task_Manager)  
 - 🧱 [Umbraco Personal Website](https://github.com/Gloziksoft/PeterGlozikUmbracoOsobnaStranka)
 
 ---
@@ -72,5 +74,5 @@ git clone https://github.com/Gloziksoft/PeterGlozikUmbracoOsobnaStranka.git
 
 ## 💬 Feedback
 
-If you find this project useful or inspiring, feel free to **give it a ⭐ on GitHub**, fork it, or drop me feedback.  
-This portfolio represents my learning path, and I’m always open to new challenges and opportunities!
+If you find this project useful or interesting, feel free to **give it a ⭐ on GitHub**, fork it, or leave feedback.  
+This portfolio shows where I currently am as a developer and how I continue to grow.
