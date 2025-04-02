@@ -50,6 +50,16 @@ I regularly use both **Windows** and **Linux** as development environments.
 
 ---
 
+## 🖼 Preview
+
+### 🔹 Homepage
+![Screenshot of Homepage](Screenshot-2025-04-02-100339.png)
+
+### 🔹 My Projects
+![Screenshot of Projects Section](Screenshot-2025-04-02-100452.png)
+
+---
+
 ## 📁 Project Structure
 \`\`\`
 /Gloziksoft
