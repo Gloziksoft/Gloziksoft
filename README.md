@@ -1,7 +1,7 @@
 # Gloziksoft
 
 👨‍💻 **Author:** Peter Glózik  
-🎯 Junior Developer | 💡 Self-taught | 🎓 Currently in Java retraining
+🎯 Junior Java Developer | Spring Boot | C#/.NET | SQL | Linux | NGINX | REST API | Open to Work
 
 ---
 
