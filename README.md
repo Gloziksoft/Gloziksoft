@@ -1,7 +1,7 @@
 # Gloziksoft
 
 👨‍💻 **Author:** Peter Glózik  
-🎯 Junior Java Developer | Spring Boot | C#/.NET | SQL | Linux | NGINX | REST API | Open to Work
+🎯 Junior DevOps Engineer | Java (Spring Boot) | Linux | Docker | Oracle Cloud | Nginx | System Administration
 
 ---
 
