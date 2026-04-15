@@ -9,7 +9,7 @@
 I focus on building and deploying backend applications using **Spring Boot** and modern DevOps practices.
 My work includes **containerization (Docker)**, **CI/CD pipelines**, and **deployment on Linux servers with Nginx and SSL**.
 
-I enjoy creating production-ready applications and continuously improving my skills in backend development and infrastructure.
+I build applications with a focus on real-world usage, combining backend development with infrastructure and deployment.
 
 ---
 
@@ -36,9 +36,11 @@ Backend application for managing insurance records.
 👉 GitHub: https://github.com/Gloziksoft/InsuranceApp
 
 * REST API (Spring Boot)
+* **MySQL database**
 * Dockerized deployment
 * Nginx reverse proxy with SSL
 * CI/CD pipeline
+* Database design & relationships
 
 ---
 
@@ -50,9 +52,10 @@ Full-stack booking and reservation system.
 👉 GitHub: https://github.com/Gloziksoft/Booking_EasyApp
 
 * Java / Spring Boot backend
-* PostgreSQL database
+* **PostgreSQL database**
 * Docker & deployment on Oracle Cloud
 * HTTPS with Nginx
+* Database design & relationships
 
 ---
 
@@ -93,7 +96,7 @@ Earlier in my journey I worked with:
 
 ## 📌 Notes
 
-All projects are built as part of my continuous learning and focus on real-world backend development and deployment practices.
+All projects are built as part of my continuous learning with focus on **backend development, deployment and real-world system design**.
 
 ---
 
