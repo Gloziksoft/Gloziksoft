@@ -1,64 +1,104 @@
-# Gloziksoft Portfolio
+# 👨‍💻 Peter Glózik
 
-👨‍💻 **Peter Glózik**  
-Java Backend Developer | Spring Boot | Docker | Linux | CI/CD | Cloud Deployment
+**Java Backend Developer | Spring Boot | Docker | CI/CD | Linux | Cloud Deployment**
 
 ---
 
-## 🚀 About
+## 🚀 About Me
 
-This repository represents my personal portfolio and projects focused on **backend development and deployment**.
+I focus on building and deploying backend applications using **Spring Boot** and modern DevOps practices.
+My work includes **containerization (Docker)**, **CI/CD pipelines**, and **deployment on Linux servers with Nginx and SSL**.
 
-I build applications using **Spring Boot** and deploy them using modern DevOps practices such as **Docker, CI/CD pipelines, and reverse proxy with Nginx**.
+I enjoy creating production-ready applications and continuously improving my skills in backend development and infrastructure.
 
 ---
 
 ## 🛠 Tech Stack
 
-- **Java (Spring Boot)**
-- **MySQL / PostgreSQL**
-- **Docker & Docker Compose**
-- **Nginx (SSL, reverse proxy)**
-- **Linux (deployment & server management)**
-- **GitHub Actions (CI/CD)**
-- **Oracle Cloud**
+* **Java (Spring Boot)**
+* **MySQL / PostgreSQL**
+* **Docker & Docker Compose**
+* **Nginx (reverse proxy, SSL)**
+* **Linux (server management & deployment)**
+* **Git & GitHub**
+* **GitHub Actions (CI/CD)**
+* **Oracle Cloud**
 
 ---
 
 ## 🌐 Live Projects
 
-- 🔗 InsuranceApp  
-  https://insuranceapp.gloziksoft.sk  
+### 🔹 InsuranceApp
 
-- 🔗 BookingApp  
-  https://bookingapp.gloziksoft.sk  
+Backend application for managing insurance records.
+
+👉 https://insuranceapp.gloziksoft.sk
+👉 GitHub: https://github.com/Gloziksoft/InsuranceApp
+
+* REST API (Spring Boot)
+* Dockerized deployment
+* Nginx reverse proxy with SSL
+* CI/CD pipeline
+
+---
+
+### 🔹 Booking System
+
+Full-stack booking and reservation system.
+
+👉 https://bookingapp.gloziksoft.sk
+👉 GitHub: https://github.com/Gloziksoft/Booking_EasyApp
+
+* Java / Spring Boot backend
+* PostgreSQL database
+* Docker & deployment on Oracle Cloud
+* HTTPS with Nginx
 
 ---
 
 ## ⚙️ What I Focus On
 
-- Backend API development
-- Containerized applications (Docker)
-- CI/CD pipelines and automation
-- Production deployment on Linux servers
+* Backend API development
+* Containerized applications (Docker)
+* CI/CD automation
+* Deployment to production (Linux servers)
+* Secure application setup (SSL, reverse proxy)
 
 ---
 
-## 📂 Featured Repositories
+## 📂 Featured Work
 
-- InsuranceApp – Spring Boot backend with Docker & CI/CD  
-- BookingApp – Full-stack Java app with cloud deployment  
-- DevOps setups – containerization, pipelines, infrastructure
+* InsuranceApp – backend + deployment
+* Booking System – full-stack + cloud deployment
+* DevOps setups – Docker, pipelines, infrastructure
+
+---
+
+## 🧩 Other Experience (previous focus)
+
+Earlier in my journey I worked with:
+
+* ASP.NET MVC
+* C# / .NET development
+* Umbraco CMS
+* SQL (MS SQL Server, MySQL)
 
 ---
 
 ## 📸 Preview
 
-(Add screenshots here)
+(Add screenshots from your apps here)
 
 ---
 
-## 🔗 Author
+## 📌 Notes
 
-Peter Glózik  
-LinkedIn: https://linkedin.com/in/...
+All projects are built as part of my continuous learning and focus on real-world backend development and deployment practices.
+
+---
+
+## 🔗 Contact
+
+* LinkedIn: https://linkedin.com/in/peterglozik
+* GitHub: https://github.com/Gloziksoft
+
