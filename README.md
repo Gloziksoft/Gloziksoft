@@ -123,3 +123,4 @@ Monitoring stack is fully containerized using Docker Compose.
 
 * LinkedIn: https://linkedin.com/in/peterglozik  
 * GitHub: https://github.com/Gloziksoft  
+* Portfolio: https://os.gloziksoft.sk  
